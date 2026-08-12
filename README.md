@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./love yourself.jpeg" width="100%">
+  </p>
+
 <div align="center">
 
 Hi ^_^👋,
