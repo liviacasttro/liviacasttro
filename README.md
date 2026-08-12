@@ -15,7 +15,8 @@ Hello world, my name is Lívia Martins de Castro. I am 17 years old and I live i
 📚 I like reading
 🎬 watching movies
 💃 Dancing
-📱Using my phone
+🎧 Listening to music
+📱 Using my phone
 
 <h2 align="left"> I have studied</h2>  <div align="left"> 
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
