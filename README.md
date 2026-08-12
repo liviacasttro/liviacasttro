@@ -1,12 +1,12 @@
 <div align="center">
 
-Hi 👋,
+Hi ^_^👋,
 
 </div>
 
 <div align="center">
   
-I'm Lívia Castro 💓
+I'm Lívia Castro (❁´◡`❁)💓
 
 </div>
 
