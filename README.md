@@ -6,7 +6,7 @@ Hi 👋,
 
 <div align="center">
   
-I'm Lívia Martins 💓
+I'm Lívia Castro 💓
 
 </div>
 
