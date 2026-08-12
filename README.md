@@ -20,3 +20,7 @@ Hello world, my name is Lívia Martins de Castro. I am 17 years old and I live i
 <div align="center">
   <h2>I have studied</h2>
 </div>
+
+<a href="https://github.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+</a>
